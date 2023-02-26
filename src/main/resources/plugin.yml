@@ -1,0 +1,5 @@
+name: SavannaWorldManager
+version: '${project.version}'
+main: net.ramuremo.savannaworldmanager.SavannaWorldManager
+api-version: 1.19
+authors: [ RamuneRemonedo ]
